@@ -1,0 +1,32 @@
+_repo: Spiritual-Tales-Re-issue-of-the-Shorter-Stories-of-Fiona-Macleod-Rearranged-with-Additional-T__55865
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sharp, William
+    alias: Macleod, Fiona
+    birthdate: 1855
+    deathdate: 1905
+    gutenberg_agent_id: '337'
+    url: http://www.gutenberg.org/2009/agents/337
+    wikipedia: http://en.wikipedia.org/wiki/William_Sharp_%28writer%29
+description: ''
+gutenberg_issued: '2017-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55865'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Scotland -- Social life and customs -- Fiction'
+- !lcsh 'Mythology, Celtic -- Fiction'
+- GITenberg
+tableOfContents: St Bride of the Isles -- The three marvels of Iona -- The melancholy
+  of Ulad -- Ula and Urla -- The dark nameless one -- The smoothing of the hand --
+  The anointed man -- The Hills of Ruel -- The Fisher of Men -- The last supper --
+  The awakening of Angus Ogue.
+title: "Spiritual Tales\r\nRe-issue of the Shorter Stories of Fiona Macleod; Rearranged,\
+  \ with Additional Tales"
+url: http://www.gutenberg.org/ebooks/55865
